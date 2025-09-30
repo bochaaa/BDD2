@@ -25,3 +25,15 @@
 
    -python manage.py runserver
 
+
+# 6. Endpoints de Prueba 
+
+POST /api/clientes/ → Crear (ALTA)
+
+GET /api/clientes/ → Listar
+
+GET /api/clientes/{id}/ → Detalle
+
+PUT/PATCH /api/clientes/{id}/ → Modificar (MODIFICACIÓN)
+
+DELETE /api/clientes/{id}/ → Eliminar (BAJA)
